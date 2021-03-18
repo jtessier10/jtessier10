@@ -10,6 +10,3 @@ I am a reliable, dedicated and fully bilingual (French–English) Canadian citiz
 
 ## Research
 My current research interests concern the evolution and stability of various flows in electrically conducting fluids (such as plasmas). The bulk of my research experience has been the numerical study of the Shallow-Water equations and it's generalization to magnetohydrodynamics (MHD).
-
-## Publications
-To come.
